@@ -1,1 +1,7 @@
-please deleted this version it not working now
+Testing Version:-
+
+Only app and sup login ka istemal kare token generate ke baad.
+
+Web login ke liye browser based bhi option dia gaya hai aap chahe to web login bhi istemal kar sakte hai web login me all upi bypass work karega.
+
+Open 1 ip and 1 pair only.
