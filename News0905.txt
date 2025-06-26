@@ -1,7 +1,20 @@
-Testing Version:-
+WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
-Only app and sup login ka istemal kare token generate ke baad.
+Ap Tesla me kisi bhi software ka backup restore kar sakte hai.
 
-Web login ke liye browser based bhi option dia gaya hai aap chahe to web login bhi istemal kar sakte hai web login me all upi bypass work karega.
+App and sup login ka istemal aap Token generate karke kar sakte hai aur apse request hai ek form ko ek ip par login kare aur ek form ke liye nly 1 pair hi login kare.
 
-Open 1 ip and 1 pair only.
+Web login ke liye 3 Mode diye gaye hai-:
+1)Chrome BRowser Mode
+2)Edge Mode .
+In do options se apka ticket process browser se hoga yani login karne par browser open hoga jisme aapka booking process hoga.
+By default Edge par tick kia gaya hai aap chahe to chrome par tick karke pair open kare to wo window chrome browser par login hoga.
+DHyan rahe Browser mode par filhal UPI or HDFC_DC ka hi istemal kare isme aap axis bypass old , Freecharge , NPCI BYpass and SBI UPI Bypass istemal kar sakte hai.
+Next Update me Browser mode par QR Bypass bhi update dedia jayega.
+
+3)Web Login Cookie mode.
+Isko use karne ke liye apse request hai aap only normal pc ka istemal kare aur fresh ip and acchi irctc id use kare isko kaise use karna hai wo step login karne par show hoga ap usko follow jarur kare.
+
+Axis Upi new bypass bank dwara disable hai aap log old bypass use kare.
+
+Apk use karne ka tareeka video me dia gaya hai aap log video open karke jarur dekhe.
