@@ -2,6 +2,12 @@ WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey
 
 Ap Tesla me kisi bhi software ka backup restore kar sakte hai.
 
+APK URL Morning me share kia jayega Ap token button par click kare aur waha se apk download kar sakte hai morning me.
+
+Only Borwser based login allowed hoga baki login only booking time ap kar payenge.
+
+Web driver jarur install kar data me download webdriver
+
 App and sup login ka istemal aap Token generate karke kar sakte hai aur apse request hai ek form ko ek ip par login kare aur ek form ke liye nly 1 pair hi login kare.
 
 Web login ke liye 3 Mode diye gaye hai-:
