@@ -1,5 +1,7 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+MAC check ko off kar dia gaya hai ab dobara mac check issue nahi aayega.
+
 Apk aap Token window open karke waha se download kar sakte hai.
 
 Browser based login me PhonepeQR me agar agar freecharge UPI use karte hai to QR auto pay yani Bypass ho jayega isliye agar aap QR use kar rahe hai to only PHONEPEQR ka istemal jisse apka payment fast hoga.
