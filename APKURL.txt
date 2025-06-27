@@ -1,1 +1,1 @@
-https://auth5.taslats.com/sensor/##https://auth6.taslats.com/sensor/
+https://auth5.taslavalidate.com/sensor/##https://auth6.taslavalidate.com/sensor/
