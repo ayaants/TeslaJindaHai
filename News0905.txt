@@ -1,6 +1,8 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
-MAC check ko off kar dia gaya hai ab dobara mac check issue nahi aayega.
+Apse request hai aap token generate karne se pehle IP change kar le aur apk ko app info me jakar clear storage and clear cache kar le jisse apka fresh aur accha token generate ho aur apse request hai 10 se jada token generate na kare yani 4-5 baar availability baki submit and payment token.
+
+Token send karne me apk me jab token send sucessfull ho jaye tabhi software me token get kare.
 
 Apk aap Token window open karke waha se download kar sakte hai.
 
