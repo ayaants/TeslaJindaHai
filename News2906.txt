@@ -1,5 +1,7 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+Mac check on kar dia gaya hai all users se request hai ek id ko ek hi system me use kare warna booking time software auto close ho jayega.
+
 Semi Browser me jo bug tha usko solve kar dia gaya hai ab aap bindas semi browser use kar sakte hai for faster bookings dhyan rahe pehle apko semi browser par tick karna fir ticket open karna hai and fir login karna hai.
 
 Filhal aap only IPAYUPI hi use kar payenge ap apna axis bypass ya freecharge bypass ya Bhim bypass ko IPAYUPI me save kar ke semi browser me use kar sakte hai.
