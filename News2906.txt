@@ -1,0 +1,14 @@
+WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
+
+Semi Browser me jo bug tha usko solve kar dia gaya hai ab aap bindas semi browser use kar sakte hai for faster bookings dhyan rahe pehle apko semi browser par tick karna fir ticket open karna hai and fir login karna hai.
+
+Filhal aap only IPAYUPI hi use kar payenge ap apna axis bypass ya freecharge bypass ya Bhim bypass ko IPAYUPI me save kar ke semi browser me use kar sakte hai.
+
+Bhim NCPI me jo issue tha payment na hone ka usko solve kar dia gaya hai.
+
+Naya bypass axis and freecharge ka closed hai bank dwara sahi hote hi apko update dedia jayega.
+
+Bhim SBI Upi BYpass next update me fix kar dia jayega.
+
+App and sup login ke liye token aap dhyan se generate kare puri video dekhe aur token generate kare aur agar aap jaad form app login kar rahe hai to aap se request hai har form ka 1 hi pair login kare second pair aap web semi browser login kar de.
+
