@@ -1,5 +1,7 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+Only adhar autehticated profile wali irctc se hi ticket booking hoga isliye users se request hai aaj se only adhar verified id ka istemal kare
+
 Mac check on kar dia gaya hai all users se request hai ek id ko ek hi system me use kare warna booking time software auto close ho jayega.
 
 Semi Browser par tick kar le aur ek pair web login jarur kare iska result apko bahot fast milega filhal only IPAYUPI lagaye aaj ham aur gateway isme jod denge
