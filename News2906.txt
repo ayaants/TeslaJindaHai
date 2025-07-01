@@ -1,5 +1,13 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+Dear user Dhyan de token apk naya download kare old ko uninstall kar de. Token generation ka tareeka pehle ke tarah hi hai bus apse request hai aap token generate kare fir apk ko dobara open kare aur dobara kuch token generate kare aise aap 3-4 baar apk ko open close kare aur token generate kare aur fir end me apk open kare aur token ko send kar de jitna bhi token apne generate kiya hai all token apka software me get ho jayega yeh karne se jo users ko submit ka issue ho raha hai wo nahi hoga kyuki users same ek hi baar token generate karte hai aur multiple form login kar dete hai.
+
+APse request hai ek pair app aur ek pair web login kare web login captcha ke baad auto close hoga payment apki software se direct process hogi.
+
+Next update me web login ap pehle ki tarah use kar payenge hamara update under test hai jaldi hi launch kar dia jayega.
+
+Swarail login coming very sooon.
+
 Only adhar autehticated profile wali irctc se hi ticket booking hoga isliye users se request hai aaj se only adhar verified id ka istemal kare
 
 Mac check on kar dia gaya hai all users se request hai ek id ko ek hi system me use kare warna booking time software auto close ho jayega.
