@@ -1,34 +1,5 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
-Kafi users hai jo token sahi tareeke se generate nahi kar paa rahe hai jis wajah se unhe submit par rukne ka samna kar raha hai.
+APk me token generate karte hue apse request hai ki aap ek baar me ek id se token generate kare aur agar apko dobara aur token generate karne hai to aap new id se login karke token generate kare same id se daily token na generate kare aur token generate ke liye adhar id ka jarurat nahi hai isliye adhar id aap only booking ke time hi login kare aur dusre koi bhi time us id par login na kare aur agar ho sake to ac me use ki hui id ko sleeper me use bilkul na kare..
 
-Jab aap token generate kare to khaas dhyaan yeh rakhe ki aap same same id bilkul na istemal kare aur token generate ke liye jaruri nahi hai aap adhar authenticated id use kare aap koi bhi id ka istemal kar sakte hai bus itna dhyan rakhe token generate hamesha daily new id se kare aur software me bhi wo id na use kare warna apka submit par rukega aur apko dikkat ho sakti hai.
-
-ek pair app and 1 pair web login kare for better results.
-
-Dear user Dhyan de token apk naya download kare old ko uninstall kar de. Token generation ka tareeka pehle ke tarah hi hai bus apse request hai aap token generate kare fir apk ko dobara open kare aur dobara kuch token generate kare aise aap 3-4 baar apk ko open close kare aur token generate kare aur fir end me apk open kare aur token ko send kar de jitna bhi token apne generate kiya hai all token apka software me get ho jayega yeh karne se jo users ko submit ka issue ho raha hai wo nahi hoga kyuki users same ek hi baar token generate karte hai aur multiple form login kar dete hai.
-
-APse request hai ek pair app aur ek pair web login kare web login captcha ke baad auto close hoga payment apki software se direct process hogi.
-
-Next update me web login ap pehle ki tarah use kar payenge hamara update under test hai jaldi hi launch kar dia jayega.
-
-Swarail login coming very sooon.
-
-Only adhar autehticated profile wali irctc se hi ticket booking hoga isliye users se request hai aaj se only adhar verified id ka istemal kare
-
-Mac check on kar dia gaya hai all users se request hai ek id ko ek hi system me use kare warna booking time software auto close ho jayega.
-
-Semi Browser par tick kar le aur ek pair web login jarur kare iska result apko bahot fast milega filhal only IPAYUPI lagaye aaj ham aur gateway isme jod denge
-
-Semi Browser me jo bug tha usko solve kar dia gaya hai ab aap bindas semi browser use kar sakte hai for faster bookings dhyan rahe pehle apko semi browser par tick karna fir ticket open karna hai and fir login karna hai.
-
-Filhal aap only IPAYUPI hi use kar payenge ap apna axis bypass ya freecharge bypass ya Bhim bypass ko IPAYUPI me save kar ke semi browser me use kar sakte hai.
-
-Bhim NCPI me jo issue tha payment na hone ka usko solve kar dia gaya hai.
-
-Naya bypass axis and freecharge ka closed hai bank dwara sahi hote hi apko update dedia jayega.
-
-Bhim SBI Upi BYpass next update me fix kar dia jayega.
-
-App and sup login ke liye token aap dhyan se generate kare puri video dekhe aur token generate kare aur agar aap jaad form app login kar rahe hai to aap se request hai har form ka 1 hi pair login kare second pair aap web semi browser login kar de.
-
+AP in baato ka khaaas dhyan rakhe booking karte wakt apka submit pax issue nahi hoga jada dhyan apni irctc id aur apne ip ka rakhe aur token apk me hamesha alag alag id se hi token generate kare.
