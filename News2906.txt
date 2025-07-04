@@ -1,5 +1,7 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+EK pair app ke sath web login bhi jarur kare web login me payment process auto hoga only captcha browser par fill hokar captcha close ho jayega.
+
 APk me token generate karte hue apse request hai ki aap ek baar me ek id se token generate kare aur agar apko dobara aur token generate karne hai to aap new id se login karke token generate kare same id se daily token na generate kare aur token generate ke liye adhar id ka jarurat nahi hai isliye adhar id aap only booking ke time hi login kare aur dusre koi bhi time us id par login na kare aur agar ho sake to ac me use ki hui id ko sleeper me use bilkul na kare..
 
 AP in baato ka khaaas dhyan rakhe booking karte wakt apka submit pax issue nahi hoga jada dhyan apni irctc id aur apne ip ka rakhe aur token apk me hamesha alag alag id se hi token generate kare.
