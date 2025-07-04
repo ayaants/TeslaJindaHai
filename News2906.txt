@@ -1,5 +1,11 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+Kafi users hai jo token sahi tareeke se generate nahi kar paa rahe hai jis wajah se unhe submit par rukne ka samna kar raha hai.
+
+Jab aap token generate kare to khaas dhyaan yeh rakhe ki aap same same id bilkul na istemal kare aur token generate ke liye jaruri nahi hai aap adhar authenticated id use kare aap koi bhi id ka istemal kar sakte hai bus itna dhyan rakhe token generate hamesha daily new id se kare aur software me bhi wo id na use kare warna apka submit par rukega aur apko dikkat ho sakti hai.
+
+ek pair app and 1 pair web login kare for better results.
+
 Dear user Dhyan de token apk naya download kare old ko uninstall kar de. Token generation ka tareeka pehle ke tarah hi hai bus apse request hai aap token generate kare fir apk ko dobara open kare aur dobara kuch token generate kare aise aap 3-4 baar apk ko open close kare aur token generate kare aur fir end me apk open kare aur token ko send kar de jitna bhi token apne generate kiya hai all token apka software me get ho jayega yeh karne se jo users ko submit ka issue ho raha hai wo nahi hoga kyuki users same ek hi baar token generate karte hai aur multiple form login kar dete hai.
 
 APse request hai ek pair app aur ek pair web login kare web login captcha ke baad auto close hoga payment apki software se direct process hogi.
