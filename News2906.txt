@@ -2,6 +2,12 @@ WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey
 
 EK pair app ke sath web login bhi jarur kare web login me payment process auto hoga only captcha browser par fill hokar captcha close ho jayega.
 
-APk me token generate karte hue apse request hai ki aap ek baar me ek id se token generate kare aur agar apko dobara aur token generate karne hai to aap new id se login karke token generate kare same id se daily token na generate kare aur token generate ke liye adhar id ka jarurat nahi hai isliye adhar id aap only booking ke time hi login kare aur dusre koi bhi time us id par login na kare aur agar ho sake to ac me use ki hui id ko sleeper me use bilkul na kare..
+Get token form me ek apk aur rakha gaya hai yeh apk se token generate kare aur software me get kare and apk ko background se close karne me uska data auto clean ho jayega yani apko only ip change karni hai aur software me agar aap chahe to aur token add kar sakte hai.
 
-AP in baato ka khaaas dhyan rakhe booking karte wakt apka submit pax issue nahi hoga jada dhyan apni irctc id aur apne ip ka rakhe aur token apk me hamesha alag alag id se hi token generate kare.
+TOken get karte wakt ek popup show hoga jo apse puchega ki aap aur token add karna chahte hai ya nahi agar aap aur token add nahi karna chahte hai to NO par click kare yadi add karna chahte hai to pehle token send kare fir yes par click kare at the end total jitne token hai wo apko show ho jayenge.
+
+Koshis kare different different mobile se token send kare for better results.
+
+Dusra apk only wohi log use kare jisko issues ho raha hai jinka proper working hai wo yeh apk use na kare.
+
+Semi Browser web login ko aur fast kia gaya hai yani ab aap all gateway use kar sakte hai captcha fill hote hi browser auto close ho jayega and baki ke sare process auto honge.
