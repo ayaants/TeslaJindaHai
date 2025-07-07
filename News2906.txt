@@ -1,6 +1,21 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+***Very Important Note Read carefully Before booking.***
+ab aap app or super login ke 1 form ke only 1 pair hi login kar payenge isliye apse request pehle pair aap app ya sup login kare aur dusra web login.
+
+App and Sup login ke total 4 window hi login honge yani agar apne 4 form lagaya hai to aap total 4 window hi login kar payenge isliye apse request hai dhyan purwak login kare.
+
+Jab tak ek pair wait for PG na ho jaye dusra pair bilkul na kare.
+
+Ye steps akamai ke system aur ip blocking ko dekhte hue kia gaya hai kyuki pichle 2 din se irctc ne akamai security ko increase kia hai jis wajah se unable to process aur undefined browser and app me jada ho raha hai isliye apka JA3 block na ho hamne login window aur pair ko limited kar dia hai.
+
 EK pair app ke sath web login bhi jarur kare web login me payment process auto hoga only captcha browser par fill hokar captcha close ho jayega.
+
+Token software me tabhi get kare jab apk se token send sucessfull aa jaye aur yadi apko aur token add karne hai to yes tabhi kare jab apk se apne token bhj dia hai warna no kar de apke token show ho jayenge.
+
+Ap different phone se bhi token generate kar sakte hai aur usko software me get karte rahe.
+
+apko token generate karte hue payment aur captcha tak jane ki jarurat nahi hai aap only login kare train search kare aur availability 5-6 baar kare aur token send kar de aise karke aap apk ko restart kare aur jitne chahe utne token add kare.
 
 Get token form me ek apk aur rakha gaya hai yeh apk se token generate kare aur software me get kare and apk ko background se close karne me uska data auto clean ho jayega yani apko only ip change karni hai aur software me agar aap chahe to aur token add kar sakte hai.
 
