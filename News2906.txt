@@ -1,30 +1,16 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
-Regular version token apk ko change kiya gaya hai jis user ko token generate me issue ho raha hai wo log token apk download kar sakte hai.
-
 ***Very Important Note Read carefully Before booking.***
+
+DOwnload APK normal version me jakar New apk upload kia gaya hai use download kar le aur token ko payment tak jakar hi banaye fir utne token get kare agar aur token banane hai to apk ko background se close kare aur dobara open kare.
+
+All users Regular version apk hi download kare isi apk ka istemal kare token generate ke liye.Is apk ko use karne se apko koi issue face nahi hoga apk ko proper test aur usi hisab se banaya gaya hai.
+
+Agar aur token add karne hai to pehle token apk se generate kare to hi software me yes kare warna NO par click kar de.
+
+Hamesha fresh ip se token banaye taki apka kisi bhi step par hold na ho.
+
 ab aap app or super login ke 1 form ke only 1 pair hi login kar payenge isliye apse request pehle pair aap app ya sup login kare aur dusra web login.
 
-App and Sup login ke total 4 window hi login honge yani agar apne 4 form lagaya hai to aap total 4 window hi login kar payenge isliye apse request hai dhyan purwak login kare.
+Second pair ko web login kare jo semi browser based hai yani captcha ke baad ke process HTTP request se hoga filhal isme HDFC_DC and IPAYUPI hi use kare.
 
-Jab tak ek pair wait for PG na ho jaye dusra pair bilkul na kare.
-
-Ye steps akamai ke system aur ip blocking ko dekhte hue kia gaya hai kyuki pichle 2 din se irctc ne akamai security ko increase kia hai jis wajah se unable to process aur undefined browser and app me jada ho raha hai isliye apka JA3 block na ho hamne login window aur pair ko limited kar dia hai.
-
-EK pair app ke sath web login bhi jarur kare web login me payment process auto hoga only captcha browser par fill hokar captcha close ho jayega.
-
-Token software me tabhi get kare jab apk se token send sucessfull aa jaye aur yadi apko aur token add karne hai to yes tabhi kare jab apk se apne token bhj dia hai warna no kar de apke token show ho jayenge.
-
-Ap different phone se bhi token generate kar sakte hai aur usko software me get karte rahe.
-
-apko token generate karte hue payment aur captcha tak jane ki jarurat nahi hai aap only login kare train search kare aur availability 5-6 baar kare aur token send kar de aise karke aap apk ko restart kare aur jitne chahe utne token add kare.
-
-Get token form me ek apk aur rakha gaya hai yeh apk se token generate kare aur software me get kare and apk ko background se close karne me uska data auto clean ho jayega yani apko only ip change karni hai aur software me agar aap chahe to aur token add kar sakte hai.
-
-TOken get karte wakt ek popup show hoga jo apse puchega ki aap aur token add karna chahte hai ya nahi agar aap aur token add nahi karna chahte hai to NO par click kare yadi add karna chahte hai to pehle token send kare fir yes par click kare at the end total jitne token hai wo apko show ho jayenge.
-
-Koshis kare different different mobile se token send kare for better results.
-
-Dusra apk only wohi log use kare jisko issues ho raha hai jinka proper working hai wo yeh apk use na kare.
-
-Semi Browser web login ko aur fast kia gaya hai yani ab aap all gateway use kar sakte hai captcha fill hote hi browser auto close ho jayega and baki ke sare process auto honge.
