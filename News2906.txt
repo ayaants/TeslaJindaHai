@@ -1,5 +1,7 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+Regular version token apk ko change kiya gaya hai jis user ko token generate me issue ho raha hai wo log token apk download kar sakte hai.
+
 ***Very Important Note Read carefully Before booking.***
 ab aap app or super login ke 1 form ke only 1 pair hi login kar payenge isliye apse request pehle pair aap app ya sup login kare aur dusra web login.
 
