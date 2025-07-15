@@ -1,5 +1,11 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+Pehla pair aap app login ya super login hi kare uske baad web login kare kyuki first pair par hi sup ya app login work karega.
+
+Chnages updated as par new irctc Update.
+
+Booking ko optimized kia gaya hai.
+
 Jo id Tesla databse me registred hai yani orignal id par hi token get and post hoga agar aap fake id server bypass istemal kar rahe hai to apka token get aur post nahi hoga.
 Apk aur software me token post aur get karne ke liye apki id orignak tesla id honi chaiyye registered and paid.
 
