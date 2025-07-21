@@ -1,5 +1,7 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+Agar kisi user kobooking me koi issue ya koi error ataa hai to apse request hai aap apne IRLOG folder ka zip bana kar ham tak share kar de jab error aaye tabhi zip banaye kyuki error aane ke baad yadi aap software cut karenge to logs delete ho jayenge.
+
 ***Users se request hai apni booking sucessfull Image aur screenshot kisi ko bhi galti se share na kare warna apke passenger ke journey me dikkat ho sakti hai aur ham us screenshot ki id ko turant delete kar denge isliye ham viniti karte hai ki aap please koi bhi screenshot kisi ko bhi share na kare.***
 
 E-WALLET option add kar dia gaya hai isse aap adhe seconds se kam me bhi payment kar sakte hai aapko add bank me jakar E-wallet me kuch bhi dal kar save kar dena hai aur fir irctc id select karni hai aur e-wallet select karke login kar dena hai dhyaan rahe hai wahi irctc id select kare jisme e-wallet active hai aur funds apne add kar diye hai.
