@@ -1,5 +1,7 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+Booking screenshot kisi ko bhi bilkul share na kare warna id ko turant delete kar dia jayega
+
 Agar kisi user kobooking me koi issue ya koi error ataa hai to apse request hai aap apne IRLOG folder ka zip bana kar ham tak share kar de jab error aaye tabhi zip banaye kyuki error aane ke baad yadi aap software cut karenge to logs delete ho jayenge.
 
 ***Users se request hai apni booking sucessfull Image aur screenshot kisi ko bhi galti se share na kare warna apke passenger ke journey me dikkat ho sakti hai aur ham us screenshot ki id ko turant delete kar denge isliye ham viniti karte hai ki aap please koi bhi screenshot kisi ko bhi share na kare.***
