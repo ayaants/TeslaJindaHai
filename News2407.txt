@@ -1,8 +1,6 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
-Hame daily Video aur booking screenshot dekh kar id delete karna pad raha hai isliye jise APNI tesla id delete karani hai wo image video jarur share kare
-
-Agar kisi user kobooking me koi issue ya koi error ataa hai to apse request hai aap apne IRLOG folder ka zip bana kar ham tak share kar de jab error aaye tabhi zip banaye kyuki error aane ke baad yadi aap software cut karenge to logs delete ho jayenge.
+Bina token generate ke aap login nahi kar payenge isliye apse request hai token generate kare aap 2-3 token bhi generate kar sakte hai but token generate karna mandatory hai tabhi aap app and sup login kar payenge.
 
 ***Users se request hai apni booking sucessfull Image aur screenshot kisi ko bhi galti se share na kare warna apke passenger ke journey me dikkat ho sakti hai aur ham us screenshot ki id ko turant delete kar denge isliye ham viniti karte hai ki aap please koi bhi screenshot kisi ko bhi share na kare.***
 
