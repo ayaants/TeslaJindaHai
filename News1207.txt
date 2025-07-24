@@ -1,6 +1,6 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
-Booking screenshot kisi ko bhi bilkul share na kare warna id ko turant delete kar dia jayega
+Hame daily Video aur booking screenshot dekh kar id delete karna pad raha hai isliye jise APNI tesla id delete karani hai wo image video jarur share kare
 
 Agar kisi user kobooking me koi issue ya koi error ataa hai to apse request hai aap apne IRLOG folder ka zip bana kar ham tak share kar de jab error aaye tabhi zip banaye kyuki error aane ke baad yadi aap software cut karenge to logs delete ho jayenge.
 
