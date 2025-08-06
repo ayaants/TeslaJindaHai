@@ -1,5 +1,7 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+Token apk jald hi server par upload kar dia jayega tab tak aap users bina token ke login kar sakte hai kyuki apke tokens apke local drive me saved hote hai aur token generation hamare server se bhi hota hai isliye jab tak apk upload na kia jaye tab tak aap se request hai aap normally bina token generate kiye login kare.
+
 Adhar verified ID se aap only 12 ticket hi book kar sakte hai monthly 12 se jada ticket book karne ke liye irctc dwara yeh mandatory hai jis name par irctc id ki kyc verify hui hai wo passenger travel kare isliye apne irctc id ki monthly booking count jarur dekh len.
 
 Dhyan rakhe pehle token ko get kare tabhi open ticket se ticket open kare token aap jab chahe tab generate kar sakte hai bus itna dhyan rakhna hai ki token get karne ke baad aap software ko close na kare agar aapne ek baar token generate kar lia hai to aap bina software close kiye bhi ac and sleeper book kar sakte hai.
